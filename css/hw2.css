@@ -1,0 +1,66 @@
+div {
+    border: 2px solid;
+    width: 630px;
+    height: 250px;
+    font-family: Microsoft JhengHei;
+    background: rgb(226, 226, 226);
+}
+
+#me {
+    width: 200px;
+    border-radius: 50%;
+    border: 1.5px solid #4b4b4b;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+#profile {
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    top: 10px;
+    left: 300px;
+}
+
+#fb {
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background: #6689d4;
+    padding: 8px 16px;
+    position: absolute;
+    top: 40px;
+    left: 450px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2.5px solid #6689d4;
+}
+
+#fb:hover {
+    padding: 9px 18px;
+    text-decoration-line: underline;
+}
+
+#about {
+    position: absolute;
+    top: 85px;
+    left: 307px;
+    font-family: Microsoft JhengHei;
+    font-weight: 900;
+}
+
+#ig {
+    background: -webkit-linear-gradient(top, blue, #a32b68 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#taiwan {
+    background: -webkit-linear-gradient(left, blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#tag {
+    color: #0036e5;
+}
