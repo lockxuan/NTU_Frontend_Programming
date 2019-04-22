@@ -40,7 +40,7 @@ h3 {
 
 p {
     font-size: 18px;
-    color: #808181;
+    color: #40424a;
     line-height: 1.8;
 }
 
@@ -529,7 +529,7 @@ ol {
 ----------------------*/
 
 .resume-section.with-bg {
-    background-image: url(../img/resume-bg.jpg);
+    background-image: url(../img/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -575,7 +575,7 @@ ol {
 .resume-list h4 {
     font-size: 16px;
     text-transform: uppercase;
-    color: #808181;
+    color: #40424a;
     margin-top: 10px;
     margin-bottom: 45px;
 }
@@ -630,6 +630,21 @@ ol {
 
 .single-review h4 {
     font-size: 16px;
+}
+
+.imgg:hover {
+    background-image: url(me22.jpg);
+    size: 20px;
+    border: solid;
+    opacity: 0.5;
+}
+
+.imgg {
+    background-image: url(me22.jpg);
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.3s cubic-bezier(0.42, 0, 0.51, 0.97);
 }
 
 
