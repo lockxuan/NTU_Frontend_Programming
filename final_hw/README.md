@@ -13,8 +13,8 @@
       
   ////////////////////////  
   css、js製作特色 :  
-  一、hover、字體設計及搭配(使用animate.css、GOOLE FONT) 
-  二、以table形式製作整體遊戲
+  一、hover、字體設計及搭配(使用animate.css、GOOLE FONT)   
+  二、以table形式製作整體遊戲  
   三、加入計時豐富有趣(自己寫的)  
   四、除了使用一些library，95%自己寫的  
   五、不變的icon
