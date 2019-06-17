@@ -241,7 +241,12 @@ function game1() {
         }
 
         if (getplayerpos.hasClass("draw-player")) {
-            lose();
+            if(game_mode==1){
+                lose();
+            }else if(game_mode==2){
+                over();
+            }
+            
         }
         getplayerpos.addClass("draw-player count" + count);
 
