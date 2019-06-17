@@ -1,0 +1,156 @@
+body {
+  font-family: 'Bangers', cursive, "Microsoft Yahei", "Hiragino Sans GB", sans-serif;
+  background-image: url("./bg1.jpg");
+  background-repeat: no-repeat;
+  background-color: aliceblue;
+  background-size: 100%;
+}
+
+.first #header {
+  font-size: 70px;
+  padding-top: 10%;
+}
+
+.first .btn {
+  margin: 0 auto;
+  margin-top: 150px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 45vw;
+  padding-right: 45vw;
+  background-color: #4c587b;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: black;
+  font-size: 3vw;
+  font: bold;
+}
+
+.first .btn:hover {
+  background-color: #4c587b;
+  color: #f09191;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 3vw;
+}
+
+#mode2 {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 45vw;
+  padding-right: 45vw;
+  background-color: #4c587b;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: black;
+  font-size: 3vw;
+  font: bold;
+}
+
+#mode2:hover {
+  background-color: #4c587b;
+  color: #f09191;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 3vw;
+}
+
+#mode1 {
+  margin: 0 auto;
+  margin-top: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 45vw;
+  padding-right: 45vw;
+  background-color: #4c587b;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: black;
+  font-size: 3vw;
+  font: bold;
+}
+
+#mode1:hover {
+  background-color: #4c587b;
+  color: #f09191;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 3vw;
+}
+
+#restart {
+  margin: 0 auto;
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 45vw;
+  padding-right: 45vw;
+  background-color: #4c587b;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: black;
+  font-size: 3vw;
+  font: bold;
+}
+
+#restart:hover {
+  background-color: #4c587b;
+  color: #f09191;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-size: 3vw;
+}
+
+.mar {
+  padding: 3.3%;
+}
+
+.game {
+  background-color: white;
+  width: 80%;
+  min-width: 200px;
+  height: 42vw;
+  margin: auto;
+  border: 1px solid black;
+  -webkit-box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.3);
+          box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.3);
+}
+
+.game .game1 {
+  width: 100%;
+  height: 100%;
+}
+
+.game .game1 #game1area {
+  width: 80%;
+  height: 90%;
+  min-width: 150px;
+  background-color: #f09191a6;
+  margin-left: 10%;
+}
+
+.game .game1 #game1area,
+.game .game1 td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.game .game1 .draw-player {
+  background-color: black;
+}
+
+.game .game1 .food {
+  background-color: #4c587b;
+}
+
+.game .game1 #score,
+.game .game1 #time_score {
+  font-size: 2.5vw;
+}
+
+#lose {
+  font-size: 100px;
+  font: 900;
+  color: black;
+  padding-top: 10%;
+}
+
+#lose2 {
+  font-size: 100px;
+  font: 900;
+  color: black;
+}
+/*# sourceMappingURL=index.css.map */
