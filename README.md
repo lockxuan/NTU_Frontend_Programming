@@ -1,6 +1,6 @@
-# lockxuan.github.io
+# NTU_Frontend_Programming
 ----
-2019 前端課程所用
+2019 前端課程(課號：GenEdu5007)
 
 cv:  
 https://lockxuan.github.io/cv  
